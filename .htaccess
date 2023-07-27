@@ -1,0 +1,3 @@
+ErrorDocument 404 http://localhost/project2223_2a15-ninjahub/notfound/
+RewriteEngine On
+RewriteRule ^$ /project2223_2a15-ninjahub/homepage [L]
